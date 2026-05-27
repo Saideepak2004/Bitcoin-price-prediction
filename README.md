@@ -65,3 +65,8 @@ Built an LSTM neural network using TensorFlow/Keras:
 ## Results
 * Successfully predicted Bitcoin price trends using LSTM networks
 * Achieved effective forecasting performance on time-series financial data
+## Author 
+Saideepak
+
+## GitHub Repository
+(https://github.com/Saideepak2004/Bitcoin-price-prediction)
